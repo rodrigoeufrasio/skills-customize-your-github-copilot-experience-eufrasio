@@ -77,6 +77,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "intro-to-algorithms",
+      "title": "Intro to Algorithms with Python",
+      "description": "Learn algorithmic problem solving by implementing search and sorting patterns and visualizing performance with Python.",
+      "path": "assignments/intro-to-algorithms",
+      "dueDate": "2026-08-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
